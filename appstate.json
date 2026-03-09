@@ -1,1 +1,66 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+
+[
+	{
+		"key": "pas",
+		"value": "61568805985932%3AmzdgDMBiax",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.247Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B712x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "fr",
+		"value": "0SiAdtAeVpxjwWr9x.AWcv7ucWqZ_o0nrUpU5u-hkvjjxk-PQm2n6IS-TbX9XK-o9nqy8.Bprvl5..AAA.0.0.Bprv9H.AWfq2j0kcNv2eRrkW-9gr0fJQos",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3107%3Btimestamp%3A1773076295",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101720083%3BT%3A29551276",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-09T18:18:28.249Z",
+		"lastAccessed": "2026-03-09T18:18:28.249Z"
+	}
+]
